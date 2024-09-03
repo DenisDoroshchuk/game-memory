@@ -1,7 +1,7 @@
 {
-  "name": "Denis Doroshchuk",
-  "short_name": "Denis D.",
-  "start_url": ".",
+  "name": "Game Memory",
+  "short_name": "Memory",
+  "start_url": "https://doroshchuk.me/game-memory/",
   "display": "standalone",
   "background_color": "#07393cff",
   "theme_color": "#07393cff"
