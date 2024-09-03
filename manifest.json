@@ -1,7 +1,7 @@
 {
   "name": "Game Memory",
   "short_name": "Memory",
-  "start_url": "https://doroshchuk.me/game-memory/",
+  "start_url": "/game-memory",
   "display": "standalone",
   "background_color": "#07393cff",
   "theme_color": "#07393cff"
